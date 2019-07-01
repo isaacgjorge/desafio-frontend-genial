@@ -14,7 +14,7 @@ Para completar este desafio Você DEVE utilizar o REACT.
     * O estado inicial das informações na seção exibe somente o título;
     * No evento de *hover*, o respectivo texto de cada *box* deve ser exibido, conforme [imagem exemplo](Layout/layout.png);
 * Você está livre para escolher a estrutura de diretórios da aplicação;
-* O uso de pré-processadores de CSS e task runners será muito bem vindo!
+* O uso de task runners será muito bem vindo!
 
 ## O que será avaliado ##
 
