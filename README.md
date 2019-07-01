@@ -1,7 +1,8 @@
 # Quer trabalhar em nosso time de frontend? #
 
 Esse é o nosso desafio para você!
-O objetivo é avaliar o seu conhecimento e habilidades. O desenvolvimento deve seguir fielmente o layout disponibilizado (espaçamento, cores, tipografia e etc). Você não deve utilizar nenhum framework CSS (Bootstrap, Foundation e etc) neste desafio. Você pode usar libs e frameworks como Jquery, AngularJS ou Angular 5 para manipular os elementos, entretando, não pode ser utilizado nenhum tipo de plugin.
+O objetivo é avaliar o seu conhecimento e habilidades. O desenvolvimento deve seguir fielmente o layout disponibilizado (espaçamento, cores, tipografia e etc). Você não deve utilizar nenhum framework CSS (Bootstrap, Foundation e etc) neste desafio, apenas o pré-processador SASS. 
+Para completar este desafio Você DEVE utilizar o REACT.
 
 ## Instruções ##
 
@@ -11,7 +12,7 @@ O objetivo é avaliar o seu conhecimento e habilidades. O desenvolvimento deve s
 * O layout deve ser responsivo em apenas dois breakpoints: desktop e mobile. O ajuste do layout mobile fica a seu critério;
 * Faça uma requisição para o arquivo JSON/servicos.json para ler os dados da seção "Serviços";
     * O estado inicial das informações na seção exibe somente o título;
-    * No evento de *hover*, o respectivo texto de cada *box* deve ser exibido, conforme [imagem exemplo](Layout/layout_hover_secao_servicos.jpg);
+    * No evento de *hover*, o respectivo texto de cada *box* deve ser exibido, conforme [imagem exemplo](Layout/layout.png);
 * Você está livre para escolher a estrutura de diretórios da aplicação;
 * O uso de pré-processadores de CSS e task runners será muito bem vindo!
 
@@ -22,9 +23,10 @@ O objetivo é avaliar o seu conhecimento e habilidades. O desenvolvimento deve s
 * Javascript
 * Web Standards
 * Semântica
-* SEO
 * Performance
 * Organização
+* Estrutura de código
+* Melhores práticas de escrita
 
 ## Arquivos ##
 - Layout [aqui](Layout)
